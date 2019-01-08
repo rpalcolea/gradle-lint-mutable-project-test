@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.netflix.nebula:nebula-gradle-interop:1.0.2">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.netflix.nebula/nebula-gradle-interop/1.0.2/ac2c2ce633740fea023d7bbb3b5b213cf566a500/nebula-gradle-interop-1.0.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.netflix.nebula/nebula-gradle-interop/1.0.2/4e6054f293a45a3cd6d70d4f045f2e7913e921eb/nebula-gradle-interop-1.0.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
